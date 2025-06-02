@@ -2,7 +2,7 @@ import { InkList as RuntimeInkList } from "../../../../engine/InkList";
 import { InkListItem as RuntimeInkListItem } from "../../../../engine/InkList";
 import { ListDefinition as RuntimeListDefinition } from "../../../../engine/ListDefinition";
 import { ListElementDefinition } from "./ListElementDefinition";
-import { ListValue } from "../../../../engine/Value";
+import { ListValue } from "../../../../engine/Object";
 import { ParsedObject } from "../Object";
 import { Story } from "../Story";
 import { SymbolType } from "../SymbolType";

@@ -1,5 +1,5 @@
 import { InkListItem } from "./InkList";
-import { ListValue } from "./Value";
+import { ListValue } from "./Object";
 import { ListDefinition } from "./ListDefinition";
 import { TryGetResult } from "./TryGetResult";
 import { throwNullException } from "./NullException";

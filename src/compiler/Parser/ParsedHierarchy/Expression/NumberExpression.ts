@@ -1,6 +1,6 @@
-import { Container as RuntimeContainer } from "../../../../engine/Container";
+import { Container as RuntimeContainer } from "../../../../engine/Object";
 import { Expression } from "./Expression";
-import { BoolValue, FloatValue, IntValue } from "../../../../engine/Value";
+import { BoolValue, FloatValue, IntValue } from "../../../../engine/Object";
 import { asOrNull } from "../../../../engine/TypeAssertion";
 import { ParsedObject } from "../Object";
 

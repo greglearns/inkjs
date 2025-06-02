@@ -1,5 +1,5 @@
 import { Argument } from "../Argument";
-import { Container as RuntimeContainer } from "../../../../engine/Container";
+import { Container as RuntimeContainer } from "../../../../engine/Object";
 import { ControlCommand as RuntimeControlCommand } from "../../../../engine/ControlCommand";
 import { Divert as RuntimeDivert } from "../../../../engine/Divert";
 import { DivertTarget } from "./DivertTarget";
@@ -11,7 +11,7 @@ import { Path } from "../Path";
 import { Path as RuntimePath } from "../../../../engine/Path";
 import { PushPopType } from "../../../../engine/PushPop";
 import { Story } from "../Story";
-import { VariablePointerValue } from "../../../../engine/Value";
+import { VariablePointerValue } from "../../../../engine/Object";
 import { VariableReference } from "../Variable/VariableReference";
 import { ClosestFlowBase } from "../Flow/ClosestFlowBase";
 import { asOrNull } from "../../../../engine/TypeAssertion";

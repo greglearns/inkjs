@@ -1,6 +1,6 @@
 import { CallStack } from "./CallStack";
 import { VariablesState } from "./VariablesState";
-import { ValueType, Value, StringValue, ListValue } from "./Value";
+import { ValueType, Value, StringValue, ListValue } from "./Object";
 import { PushPopType } from "./PushPop";
 import { Tag } from "./Tag";
 import { Glue } from "./Glue";
@@ -15,7 +15,7 @@ import { tryGetValueFromMap } from "./TryGetResult";
 import { Choice } from "./Choice";
 import { asOrNull, asOrThrows, nullIfUndefined } from "./TypeAssertion";
 import { Debug } from "./Debug";
-import { Container } from "./Container";
+import { Container } from "./Object";
 import { InkObject } from "./Object";
 import { throwNullException } from "./NullException";
 import { Story } from "./Story";

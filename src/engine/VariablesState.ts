@@ -6,7 +6,7 @@ import {
   IntValue,
   FloatValue,
   BoolValue,
-} from "./Value";
+} from "./Object";
 import { VariableAssignment } from "./VariableAssignment";
 import { InkObject } from "./Object";
 import { ListDefinitionsOrigin } from "./ListDefinitionsOrigin";

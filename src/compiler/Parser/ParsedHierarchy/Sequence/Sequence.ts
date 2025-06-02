@@ -1,8 +1,8 @@
 import { ContentList } from "../ContentList";
-import { Container as RuntimeContainer } from "../../../../engine/Container";
+import { Container as RuntimeContainer } from "../../../../engine/Object";
 import { ControlCommand as RuntimeControlCommand } from "../../../../engine/ControlCommand";
 import { Divert as RuntimeDivert } from "../../../../engine/Divert";
-import { IntValue } from "../../../../engine/Value";
+import { IntValue } from "../../../../engine/Object";
 import { NativeFunctionCall } from "../../../../engine/NativeFunctionCall";
 import { ParsedObject } from "../Object";
 import { InkObject as RuntimeObject } from "../../../../engine/Object";

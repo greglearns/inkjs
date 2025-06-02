@@ -1,4 +1,4 @@
-import { Container as RuntimeContainer } from "../../../../engine/Container";
+import { Container as RuntimeContainer } from "../../../../engine/Object";
 import { ContentList } from "../ContentList";
 import { Expression } from "../Expression/Expression";
 import { FlowBase } from "../Flow/FlowBase";

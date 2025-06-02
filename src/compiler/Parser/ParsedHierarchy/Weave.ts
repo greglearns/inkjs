@@ -2,7 +2,7 @@ import { AuthorWarning } from "./AuthorWarning";
 import { Choice } from "./Choice";
 import { Conditional } from "./Conditional/Conditional";
 import { ConstantDeclaration } from "./Declaration/ConstantDeclaration";
-import { Container as RuntimeContainer } from "../../../engine/Container";
+import { Container as RuntimeContainer } from "../../../engine/Object";
 import { Divert } from "./Divert/Divert";
 import { Divert as RuntimeDivert } from "../../../engine/Divert";
 import { DivertTarget } from "./Divert/DivertTarget";

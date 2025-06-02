@@ -1,4 +1,4 @@
-import { Container as RuntimeContainer } from "../../../engine/Container";
+import { Container as RuntimeContainer } from "../../../engine/Object";
 import { ParsedObject } from "./Object";
 import { InkObject as RuntimeObject } from "../../../engine/Object";
 import { Text } from "./Text";

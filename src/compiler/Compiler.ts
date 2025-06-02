@@ -5,7 +5,7 @@ import { InkParser } from "./Parser/InkParser";
 import { Story } from "../engine/Story";
 import { Story as ParsedStory } from "./Parser/ParsedHierarchy/Story";
 import { DebugMetadata } from "../engine/DebugMetadata";
-import { StringValue } from "../engine/Value";
+import { StringValue } from "../engine/Object";
 import { asOrNull } from "../engine/TypeAssertion";
 import { GenerateStoryStats, Stats } from "./Stats";
 

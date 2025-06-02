@@ -1,4 +1,4 @@
-import { Container as RuntimeContainer } from "../../../../engine/Container";
+import { Container as RuntimeContainer } from "../../../../engine/Object";
 import { ControlCommand as RuntimeControlCommand } from "../../../../engine/ControlCommand";
 import { Expression } from "./Expression";
 import { ParsedObject } from "../Object";

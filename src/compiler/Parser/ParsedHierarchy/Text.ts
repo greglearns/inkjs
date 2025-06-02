@@ -1,6 +1,6 @@
 ﻿import { ParsedObject } from "./Object";
 import { InkObject as RuntimeObject } from "../../../engine/Object";
-import { StringValue } from "../../../engine/Value";
+import { StringValue } from "../../../engine/Object";
 
 export class Text extends ParsedObject {
   constructor(public text: string) {

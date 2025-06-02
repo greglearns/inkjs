@@ -1,4 +1,4 @@
-import { Container as RuntimeContainer } from "../../../../engine/Container";
+import { Container as RuntimeContainer } from "../../../../engine/Object";
 import { INamedContent } from "../../../../engine/INamedContent";
 import { IWeavePoint } from "../IWeavePoint";
 import { ParsedObject } from "../Object";

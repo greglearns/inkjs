@@ -9,7 +9,7 @@ import { INamedContent } from "../../../../engine/INamedContent";
 import { ParsedObject } from "../Object";
 import { Path } from "../Path";
 import { ReturnType } from "../ReturnType";
-import { Container as RuntimeContainer } from "../../../../engine/Container";
+import { Container as RuntimeContainer } from "../../../../engine/Object";
 import { Divert as RuntimeDivert } from "../../../../engine/Divert";
 import { InkObject as RuntimeObject } from "../../../../engine/Object";
 import { VariableAssignment as RuntimeVariableAssignment } from "../../../../engine/VariableAssignment";

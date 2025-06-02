@@ -1,4 +1,4 @@
-import { Container as RuntimeContainer } from "../../../../engine/Container";
+import { Container as RuntimeContainer } from "../../../../engine/Object";
 import { Expression } from "./Expression";
 import { NativeFunctionCall } from "../../../../engine/NativeFunctionCall";
 import { Story } from "../Story";

@@ -1,6 +1,6 @@
 import { AuthorWarning } from "./AuthorWarning";
 import { ConstantDeclaration } from "./Declaration/ConstantDeclaration";
-import { Container as RuntimeContainer } from "../../../engine/Container";
+import { Container as RuntimeContainer } from "../../../engine/Object";
 import { ControlCommand as RuntimeControlCommand } from "../../../engine/ControlCommand";
 import { ErrorHandler } from "../../../engine/Error";
 import { ErrorType } from "../ErrorType";

@@ -1,5 +1,5 @@
 import { InkObject } from "./Object";
-import { Container } from "./Container";
+import { Container } from "./Object";
 
 export class SearchResult {
   public obj: InkObject | null = null;

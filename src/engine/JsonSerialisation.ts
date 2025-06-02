@@ -1,4 +1,4 @@
-import { Container } from "./Container";
+import { Container } from "./Object";
 import {
   Value,
   IntValue,
@@ -8,7 +8,7 @@ import {
   VariablePointerValue,
   ListValue,
   BoolValue,
-} from "./Value";
+} from "./Object";
 import { Glue } from "./Glue";
 import { ControlCommand } from "./ControlCommand";
 import { PushPopType } from "./PushPop";

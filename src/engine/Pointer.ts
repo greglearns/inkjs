@@ -1,5 +1,5 @@
 import { Path } from "./Path";
-import { Container } from "./Container";
+import { Container } from "./Object";
 import { InkObject } from "./Object";
 
 export class Pointer {

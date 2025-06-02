@@ -1,8 +1,8 @@
-import { Container as RuntimeContainer } from "../../../engine/Container";
+import { Container as RuntimeContainer } from "../../../engine/Object";
 import { ControlCommand as RuntimeControlCommand } from "../../../engine/ControlCommand";
 import { Divert } from "./Divert/Divert";
 import { Divert as RuntimeDivert } from "../../../engine/Divert";
-import { DivertTargetValue } from "../../../engine/Value";
+import { DivertTargetValue } from "../../../engine/Object";
 import { ParsedObject } from "./Object";
 import { InkObject as RuntimeObject } from "../../../engine/Object";
 import { Story } from "./Story";

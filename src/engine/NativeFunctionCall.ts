@@ -1,4 +1,4 @@
-import { Value, ValueType, IntValue, ListValue, BoolValue } from "./Value";
+import { Value, ValueType, IntValue, ListValue, BoolValue } from "./Object";
 import { StoryException } from "./StoryException";
 import { Void } from "./Void";
 import { Path } from "./Path";

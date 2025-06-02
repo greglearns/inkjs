@@ -1,4 +1,4 @@
-import { Container as RuntimeContainer } from "../../../engine/Container";
+import { Container as RuntimeContainer } from "../../../engine/Object";
 import { DebugMetadata } from "../../../engine/DebugMetadata";
 import { FindQueryFunc } from "./FindQueryFunc";
 import { InkObject as RuntimeObject } from "../../../engine/Object";

@@ -1,6 +1,6 @@
 import { InkObject } from "./Object";
 import { Path } from "./Path";
-import { Container } from "./Container";
+import { Container } from "./Object";
 import { throwNullException } from "./NullException";
 
 export class ChoicePoint extends InkObject {

@@ -2,11 +2,11 @@
 import { Choice } from "../Choice";
 import { Conditional } from "../Conditional/Conditional";
 import { ConditionalSingleBranch } from "../Conditional/ConditionalSingleBranch";
-import { Container as RuntimeContainer } from "../../../../engine/Container";
+import { Container as RuntimeContainer } from "../../../../engine/Object";
 import { ParsedObject } from "../Object";
 import { Divert } from "./Divert";
 import { Divert as RuntimeDivert } from "../../../../engine/Divert";
-import { DivertTargetValue } from "../../../../engine/Value";
+import { DivertTargetValue } from "../../../../engine/Object";
 import { Expression } from "../Expression/Expression";
 import { FlowBase } from "../Flow/FlowBase";
 import { FunctionCall } from "../FunctionCall";

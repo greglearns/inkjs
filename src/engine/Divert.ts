@@ -3,7 +3,7 @@ import { PushPopType } from "./PushPop";
 import { StringBuilder } from "./StringBuilder";
 import { InkObject } from "./Object";
 import { Pointer } from "./Pointer";
-import { Container } from "./Container";
+import { Container } from "./Object";
 import { throwNullException } from "./NullException";
 
 export class Divert extends InkObject {

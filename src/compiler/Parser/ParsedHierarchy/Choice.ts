@@ -1,9 +1,9 @@
 import { ChoicePoint } from "../../../engine/ChoicePoint";
-import { Container as RuntimeContainer } from "../../../engine/Container";
+import { Container as RuntimeContainer } from "../../../engine/Object";
 import { ContentList } from "./ContentList";
 import { ControlCommand as RuntimeControlCommand } from "../../../engine/ControlCommand";
 import { Divert as RuntimeDivert } from "../../../engine/Divert";
-import { DivertTargetValue } from "../../../engine/Value";
+import { DivertTargetValue } from "../../../engine/Object";
 import { INamedContent } from "../../../engine/INamedContent";
 import { IWeavePoint } from "./IWeavePoint";
 import { ParsedObject } from "./Object";

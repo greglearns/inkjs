@@ -1,4 +1,4 @@
-import { Container as RuntimeContainer } from "../../../engine/Container";
+import { Container as RuntimeContainer } from "../../../engine/Object";
 import { Identifier } from "./Identifier";
 import { ParsedObject } from "./Object";
 

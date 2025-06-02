@@ -1,6 +1,6 @@
 import { Expression } from "./Expression/Expression";
 import { ParsedObject } from "./Object";
-import { Container as RuntimeContainer } from "../../../engine/Container";
+import { Container as RuntimeContainer } from "../../../engine/Object";
 import { ControlCommand as RuntimeControlCommand } from "../../../engine/ControlCommand";
 import { InkObject as RuntimeObject } from "../../../engine/Object";
 import { Void } from "../../../engine/Void";
