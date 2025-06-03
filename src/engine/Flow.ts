@@ -1,9 +1,9 @@
-import { CallStack } from "./CallStack";
+import { CallStack } from "./Story";
 import { Choice } from "./Choice";
 import { JsonSerialisation } from "./JsonSerialisation";
 import { InkObject } from "./Object";
 import { SimpleJson } from "./SimpleJson";
-import { Story } from "./Story";
+import type { Story } from "./Story";
 import { throwNullException } from "./NullException";
 
 export class Flow {

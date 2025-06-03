@@ -1,4 +1,4 @@
-import { CallStack } from "./CallStack";
+import { CallStack } from "./Story";
 import { VariablesState } from "./VariablesState";
 import { ValueType, Value, StringValue, ListValue } from "./Object";
 import { PushPopType } from "./PushPop";

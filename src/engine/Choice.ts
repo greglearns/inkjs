@@ -1,5 +1,5 @@
 import { Path } from "./Path";
-import { CallStack } from "./CallStack";
+import { CallStack } from "./Story";
 import { throwNullException } from "./NullException";
 import { InkObject } from "./Object";
 

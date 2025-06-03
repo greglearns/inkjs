@@ -15,7 +15,7 @@ import { JsonSerialisation } from "./JsonSerialisation";
 import { asOrThrows, asOrNull, isEquatable } from "./TypeAssertion";
 import { tryGetValueFromMap } from "./TryGetResult";
 import { throwNullException } from "./NullException";
-import { CallStack } from "./CallStack";
+import { CallStack } from "./Story";
 import { StatePatch } from "./StatePatch";
 import { SimpleJson } from "./SimpleJson";
 import { InkList } from "./Story";
