@@ -1,11 +1,12 @@
 /engine/
 /compiler/
-dist/
 bin/
 test/stories/
 /tests/specs/
 /ink.js
 /ink.js.map
+
+!dist/
 
 # Logs
 logs
